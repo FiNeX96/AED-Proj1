@@ -1,6 +1,6 @@
 # AED - Algorithms and Data Structures ( Algoritmos e Estruturas de Dados )
 
-Project done for the class.
+First project done for the class, called Speedrun.
 
 > A road is subdivided into road segments of approximately the same length. Each road segment has a speed limit. 
 In each move the car
